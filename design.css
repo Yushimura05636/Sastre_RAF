@@ -1,0 +1,189 @@
+.text-bold
+{
+	font-weight: bold;
+}
+
+.text-underline
+{
+	text-decoration: underline;
+}
+
+.text-indent-normal
+{
+	text-indent: 1em;
+}
+
+.text-normal
+{
+	font-style: normal;	
+}
+
+.text-italic
+{
+	font-style: italic;
+}
+
+.text-left-custom-logo
+{
+	left: 50%;
+}
+
+.text-right
+{
+	text-align: right;
+}
+
+.text-center
+{
+	text-align: center;
+}
+
+.text-left
+{
+	text-align: left;
+}
+
+.text-size-smaller
+{
+	font-size: x-small;
+}
+
+.text-size-custom
+{
+	font-size: 55%;
+}
+
+.text-size-small
+{
+	font-size: small;
+}
+
+.text-size-normal
+{
+	font-size: medium;
+}
+
+.text-size-hard
+{
+	font-size: large;
+}
+
+.text-size-harder
+{
+	font-size: larger;
+}
+
+.text-size-extreme
+{
+	font-size: x-large;
+}
+
+.text-left-small
+{
+	left: 10%;
+}
+
+.position-left-custom
+{
+	left: 10%;
+}
+
+.text-left-normal
+{
+	left: 10%;
+}
+
+.text-left-hard
+{
+	left: 30%;
+}
+
+.display-none
+{
+	display: none;
+}
+
+.display-show
+{
+	display: block;
+}
+
+.border-none
+{
+	border: none;
+}
+
+.border-bottom-normal
+{
+	border-bottom: 1px solid black;
+}
+
+.border-bottom-hard
+{
+	border-bottom: 3px solid black;
+}
+
+.line-height-normal
+{
+	line-height: 1.8em;
+}
+
+.line-height-hard
+{
+	line-height: 2.8em;
+}
+
+body
+{
+	font-family: arial;
+}
+
+.one-width
+{
+	width: 10%;
+}
+
+.full-width
+{
+	width: 100%;
+}
+
+.small-width
+{
+	width: 20%;
+}
+
+.half-width
+{
+	width: 50%;
+}
+
+.full-height
+{
+	height: 100%;
+}
+
+.half-height
+{
+	height: 50%;
+}
+
+.enable-position-relative
+{
+	position: relative;
+}
+
+.position-top-custom
+{
+	top: 50%;
+}
+
+.border-bottom-none
+{
+	border-bottom: 1px solid transparent;
+}
+
+.border-top-none
+{
+	border-top: 1px solid transparent;
+}
